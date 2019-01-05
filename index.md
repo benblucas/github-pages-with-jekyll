@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I am editing this file.
+I'm glad you are here. I plan to talk about ...
