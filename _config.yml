@@ -1,8 +1,9 @@
+--------------
 title: "My Blog"
+date: YYYY-MM-DD
 author: Ben Lucas
 email: lucas.banet@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  More content coming soon!
 
 # social links
 twitter_username: @benblucas
@@ -11,4 +12,4 @@ github_username:  benblucas
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-
+----------------
