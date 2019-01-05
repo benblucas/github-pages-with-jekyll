@@ -1,6 +1,5 @@
 ---------
-Title: PILOT
+Title: "blogPILOT"
 Date: 2019-01-05
 
-Testing configuration
 --------------
